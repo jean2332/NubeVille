@@ -1,0 +1,6 @@
+{
+  "name": "NubeVille",
+  "description": "Juego web 2D RPG cozy en pixel art para estudiar con amigos al estilo Lofi Town + Study Circle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
